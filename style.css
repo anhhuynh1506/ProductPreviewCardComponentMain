@@ -61,7 +61,7 @@ body {
 
 .heading {
     font-family: 'Fraunces', serif;
-    font-size: 3rem;
+    font-size: 30px;
     font-weight: 700;
     line-height: 3rem;
     color: var(--Very-dark-blue);
